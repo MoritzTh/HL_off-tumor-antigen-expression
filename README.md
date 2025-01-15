@@ -3,7 +3,8 @@
 
 This repository contains all jupyter notebooks to reproduce the results of the single cell cross-organ CAR T target expression analysis from:
 
----insert reference---
+Dissection of single-cell landscapes for the development of chimeric antigen receptor T cells in Hodgkin lymphoma
+Gottschlich et al, 2025 (Blood)
 
 The notebooks contain code for the following analyses:
 
